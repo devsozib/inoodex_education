@@ -549,8 +549,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_01.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/problem_solving.jpeg" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -566,8 +566,8 @@
                         </div>
                         <h3 class="course-title mb-20"> <a href="#">Problem Solving</a> </h3>
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -578,8 +578,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_05.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/data_structure.jpeg" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -595,8 +595,8 @@
                         </div>
                         <h3 class="course-title mb-20"> <a href="#">Data Structure & Algorithm</a> </h3>
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -607,8 +607,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_02.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/software_design.png" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -626,8 +626,8 @@
                         <h3 class="course-title mb-20"> <a href="#">Software Design</a> </h3>
 
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -638,8 +638,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_03.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/software-testing.jpg" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -657,8 +657,8 @@
                         <h3 class="course-title mb-20"> <a href="#">Software Testing</a> </h3>
 
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -670,8 +670,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_01.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/software_methodology.jpg" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -687,8 +687,8 @@
                         </div>
                         <h3 class="course-title mb-20"> <a href="#">Software Methodology</a> </h3>
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -699,8 +699,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_05.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/Features-of-PHP-Laravel-Framework.png" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -716,8 +716,8 @@
                         </div>
                         <h3 class="course-title mb-20"> <a href="#">Laravel Framework</a> </h3>
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -728,8 +728,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_02.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/spring-framework.png" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -747,8 +747,8 @@
                         <h3 class="course-title mb-20"> <a href="#">Spring Framework</a> </h3>
 
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
@@ -759,8 +759,8 @@
                 <div class="course-grid tooltip-style bg-white hover-shadow">
                     <div class="course-header">
                         <div class="course-thumb">
-                            <img src="assets/images/course/img_03.jpg" alt="" class="img-fluid">
-                            <div class="course-price">৳3000</div>
+                            <img src="assets/images/course/django.png" alt="" class="img-fluid">
+                            <div class="course-price">৳10,000</div>
                         </div>
                     </div>
 
@@ -778,8 +778,8 @@
                         <h3 class="course-title mb-20"> <a href="#">Django Framework</a> </h3>
 
                         <div class="course-footer mt-20 d-flex align-items-center justify-content-between ">
-                            <span class="duration"><i class="far fa-clock me-2"></i>6.5 hr</span>
-                            <span class="lessons"><i class="far fa-play-circle me-2"></i>26 Lessons</span>
+
+
                         </div>
                     </div>
                 </div>
